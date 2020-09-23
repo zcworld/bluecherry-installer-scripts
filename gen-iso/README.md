@@ -3,4 +3,4 @@ first_boot.sh must be placed by URL used in preseed.sh, currently it is http://d
 
 
 
-apt install sudo squashfs-tools
+apt install sudo squashfs-tools genisoimage
